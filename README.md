@@ -6,9 +6,13 @@ Retrofit is used for network calls and animations are incorporated throughout th
 
 ## Screenshots
 
-[<video src="/readme/mealz_app.mp4" align="center"
+[<img src="/readme/mealz_app_1.gif" align="left"
 width="200"
-hspace="10" vspace="10">](/readme/mealz_app.mp4)
+hspace="10" vspace="10">](/readme/mealz_app_1.gif)
+
+[<img src="/readme/mealz_app_2.gif" align="center"
+width="200"
+hspace="10" vspace="10">](/readme/mealz_app_2.gif)
 
 ## Functionality
 
