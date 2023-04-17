@@ -1,4 +1,4 @@
-# Crypto - Android App
+# Mealz - Android App
 
 An Android application that is built using Jetpack Compose. The app follows the MVVM architecture
 and uses the NavHost component to facilitate navigation between different activities. Additionally,
